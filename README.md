@@ -14,7 +14,7 @@ Atualmente focado em construir aplicações escaláveis unindo a robustez do **.
 
 - 🔭 Atualmente trabalhando em projetos pessoais e na **SEAD**.
 - 🌱 Estudando arquitetura de software e **Clean Code**.
-- ⚡ Foco: **C#**, **.NET**, **React** e **Next.js**.
+- ⚡ Foco: **C#**, **Python**, **MySQL**, **Flask**, **.NET**, **React** e **Next.js**.
 
 ---
 
